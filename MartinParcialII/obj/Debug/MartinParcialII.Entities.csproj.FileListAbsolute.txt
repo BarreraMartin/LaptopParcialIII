@@ -1,0 +1,14 @@
+C:\Users\admin\source\repos\MartinParcialII\MartinParcialII\bin\Debug\MartinParcialII.dll.config
+C:\Users\admin\source\repos\MartinParcialII\MartinParcialII\bin\Debug\MartinParcialII.dll
+C:\Users\admin\source\repos\MartinParcialII\MartinParcialII\bin\Debug\MartinParcialII.pdb
+C:\Users\admin\source\repos\MartinParcialII\MartinParcialII\bin\Debug\EntityFramework.dll
+C:\Users\admin\source\repos\MartinParcialII\MartinParcialII\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\admin\source\repos\MartinParcialII\MartinParcialII\bin\Debug\EntityFramework.xml
+C:\Users\admin\source\repos\MartinParcialII\MartinParcialII\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\admin\source\repos\MartinParcialII\MartinParcialII\obj\Debug\MartinParcialII.Entities.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\MartinParcialII\MartinParcialII\obj\Debug\MartinParcialII.Entities.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\MartinParcialII\MartinParcialII\obj\Debug\MartinParcialII.Entities.csproj.CopyComplete
+C:\Users\admin\source\repos\MartinParcialII\MartinParcialII\obj\Debug\MartinParcialII.dll
+C:\Users\admin\source\repos\MartinParcialII\MartinParcialII\obj\Debug\MartinParcialII.pdb
+C:\Users\admin\source\repos\MartinParcialII\MartinParcialII\obj\Debug\MartinParcialII.Migrations.Inicio.resources
+C:\Users\admin\source\repos\MartinParcialII\MartinParcialII\obj\Debug\MartinParcialII.Entities.csproj.GenerateResource.cache
