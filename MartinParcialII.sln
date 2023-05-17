@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MartinParcialII.Entities", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MartinParcialII.DataAccess", "MartinParcialII.DataAccess\MartinParcialII.DataAccess.csproj", "{7013468F-F4BA-4E44-8DED-D2B625BB7A31}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MartinParcialII.BusinessLogic", "MartinParcialII.BusinessLogic\MartinParcialII.BusinessLogic.csproj", "{DD41DC73-93D9-41F7-BE3C-C6BEC439E8CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MartinParcialII.View", "MartinParcialII.View\MartinParcialII.View.csproj", "{33C7FE9E-628E-48AE-9BE1-45332B1668C9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{7013468F-F4BA-4E44-8DED-D2B625BB7A31}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7013468F-F4BA-4E44-8DED-D2B625BB7A31}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7013468F-F4BA-4E44-8DED-D2B625BB7A31}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD41DC73-93D9-41F7-BE3C-C6BEC439E8CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD41DC73-93D9-41F7-BE3C-C6BEC439E8CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD41DC73-93D9-41F7-BE3C-C6BEC439E8CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD41DC73-93D9-41F7-BE3C-C6BEC439E8CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33C7FE9E-628E-48AE-9BE1-45332B1668C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33C7FE9E-628E-48AE-9BE1-45332B1668C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33C7FE9E-628E-48AE-9BE1-45332B1668C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33C7FE9E-628E-48AE-9BE1-45332B1668C9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
